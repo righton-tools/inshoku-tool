@@ -1,0 +1,16 @@
+{
+  "name": "飲食店共有ツール",
+  "short_name": "店ツール",
+  "description": "来店・注文・作業・光熱・天候を数値化し、ムダ・ムリ・ムラを改善する店舗ツール",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F3EE",
+  "theme_color": "#B7542C",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
